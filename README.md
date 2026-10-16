@@ -95,6 +95,7 @@ I do:
 <br/>
 <br/>
 
+<img width="245" height="115" alt="Sci-Fi Cyberpunk GIF" src="https://github.com/user-attachments/assets/fc54cb55-f7a7-4bfc-9d6f-b50aeddf56e8" />
 
 
 
