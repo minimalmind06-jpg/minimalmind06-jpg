@@ -67,15 +67,6 @@ I do:
 
 <img
     align="left"
-    alt="Behance"
-    title="Behance"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/behance/default.svg"
-/>
-
-<img
-    align="left"
     alt="Claude"
     title="Claude"
     width="30px"
