@@ -89,7 +89,7 @@ I do:
     title="Antigravity"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/defaul"
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg"
 />
 
 <br/>
