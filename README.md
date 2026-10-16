@@ -97,7 +97,7 @@ I do:
 
 
 
-<img width="500" height="198" alt="cat rainbow GIF" src="https://github.com/user-attachments/assets/fdc1dc7b-32e9-44aa-9083-f0e224aa1dee" />
+
 
 
 
