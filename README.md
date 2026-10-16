@@ -49,11 +49,11 @@ I do:
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="CapCut" 
+    title="CapCut"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/capcut/default.svg"
 />
 
 <img 
