@@ -83,14 +83,17 @@ I do:
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg"
 />
 
+<img
+    align="left"
+    alt="Antigravity"
+    title="Antigravity"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/defaul"
+/>
+
 <br/>
 <br/>
-
-
-
-
-
-
 
 
 
