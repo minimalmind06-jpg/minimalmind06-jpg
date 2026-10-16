@@ -5,6 +5,7 @@
 </div>
 
 #
+<img align="right" width="450" height="233" alt="giphy(1)" src="https://github.com/user-attachments/assets/0fe671f1-ead2-4152-bcc5-7bdc6f8cb7b6" />
 
 Hello! My name is Pedro and i love Tech and Art.
 <br>
@@ -18,7 +19,6 @@ I do:
 <br>
 -Ai 
  
-#
 
 <h3 align="left">My Stack </h3>
 
@@ -84,9 +84,13 @@ I do:
 />
 
 <br/>
+<br/>
 
 
-<img width="480" height="480" alt="Art Pixel GIF" src="https://github.com/user-attachments/assets/6bd8127f-6916-4f87-9ee6-36e1129c21fa" />
+
+
+
+
 
 
 
