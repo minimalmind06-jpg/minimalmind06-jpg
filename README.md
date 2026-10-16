@@ -47,15 +47,6 @@ I do:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Github"
-    title="GitHub"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>
-
 <img 
     align="left" 
     alt="Python" 
@@ -93,14 +84,9 @@ I do:
 />
 
 <br/>
-<br/>
 
 
-
-
-
-
-
+<img width="480" height="480" alt="Art Pixel GIF" src="https://github.com/user-attachments/assets/6bd8127f-6916-4f87-9ee6-36e1129c21fa" />
 
 
 
