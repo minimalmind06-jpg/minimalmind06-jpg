@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+My+profile+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -95,6 +95,9 @@ I do:
 <br/>
 <br/>
 
+
+
+<img width="500" height="198" alt="cat rainbow GIF" src="https://github.com/user-attachments/assets/fdc1dc7b-32e9-44aa-9083-f0e224aa1dee" />
 
 
 
