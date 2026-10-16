@@ -5,7 +5,7 @@
 </div>
 
 #
-<img width="480" height="340" alt="8-bit pixel GIF by Toyoya Li" src="https://github.com/user-attachments/assets/3fa07e5c-6f2d-4f79-9bda-b359e9a138d5" />
+<img align="rigth" width="480" height="340" alt="8-bit pixel GIF by Toyoya Li" src="https://github.com/user-attachments/assets/3fa07e5c-6f2d-4f79-9bda-b359e9a138d5" />
 
 
 Hello! My name is Pedro and i love Tech and Art.
