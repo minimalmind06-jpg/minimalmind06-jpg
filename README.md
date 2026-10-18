@@ -10,7 +10,7 @@
 
 Hello! My name is Pedro and i love Tech and Art.
 <br>
-
+<h3>Skill's</h3>
 <br>
 -Video Editing
 <br>
