@@ -11,7 +11,6 @@
 Hello! My name is Pedro and i love Tech and Art.
 <br>
 <h3 align="left">Skill's </h3>
-
 -Video Editing
 <br>
 -Web/App Design
