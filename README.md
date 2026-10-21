@@ -83,6 +83,16 @@ Hello! My name is Pedro and i love Tech and Art.
     src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg"
 />
 
+<br>
+<img
+    align="left"
+    alt="Antigravity"
+    title="Antigravity"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/google-antigravity/default.svg"
+/>
+
 <br/>
 <br/>
 
