@@ -32,11 +32,11 @@ Hello! My name is Pedro and i love Tech and Art.
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg"
 />
 <img 
     align="left" 
